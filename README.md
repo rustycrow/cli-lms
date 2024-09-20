@@ -9,7 +9,7 @@ I thought I'd add a little info for the reader to see why I'm improvising with m
 
 <h2>CONTEXT</h2>
 
-We've just spent 3 weeks running through HTML, CSS, IDE and Deployment and UI/UX concepts. It's been full on. We're a cohort of 24 and really beginnign to gel. Our intructors are fab and have been so helpful and patient. It's all beginning to sink in.
+We've just spent 3 weeks running through HTML, CSS, IDE and Deployment and UI/UX concepts. It's been full on. We're a cohort of 24 and really beginning to gel. Our intructors are fab and have been so helpful and patient. It's all beginning to sink in.
 
 <h2>TECH</h2>
 
